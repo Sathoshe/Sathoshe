@@ -8,7 +8,7 @@
 
 
 Sobre mim: 
-- _me chamo douglas, sou estudante de programação e desenvolvedor front-end no momento estou me especializando em cybersecurity, tenho experiencias com banco dados e designer grafico._ 
+- _me chamo douglas, sou estudante de programação e desenvolvedor front-end no momento estou me especializando em cybersecurity._ 
 
 Tecnologias que Uso:
  <div>
