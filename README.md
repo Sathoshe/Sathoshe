@@ -4,7 +4,7 @@
  <a href="https://t.me/sath0sh" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitek"></a>
   <a href="https://www.youtube.com/channel/UC6FqODAMiVNtKONWddnmbsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-![Sathoshe GitHub stats](https://github-readme-stats.vercel.app/api?username=sathoshe&show_icons=true&theme=dracula)
+![Sathoshe GitHub stats](https://github-readme-stats.vercel.app/api?username=sathoshe&show_icons=true&theme=synthwave)
 
 
 Sobre mim: 
